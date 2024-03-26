@@ -32,6 +32,7 @@ GitHub é uma plataforma de hospedagem de código-fonte baseada na web que utili
 
 - Para criar e configurar uma conta no GitHub, visite o site oficial do GitHub em [github.com](https://github.com/) e siga as instruções para criar uma conta gratuita.
     - No canto superior direito clique em SIGN UP
+    ![Imagem 1](imagens/criar1.png)
     - Preencha as informações de nome, e-mail, nome de usuário e senha.
     - Resolva o problema para comprovar que não é um robô
     - Escolha a versão que você irá utilizar, como Empresarial, ou pessoal e qual a intenção de uso( no meu caso eu infomei que era pra estudo e compartilhar códigos).
